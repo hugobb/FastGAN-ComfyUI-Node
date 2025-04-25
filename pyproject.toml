@@ -27,12 +27,12 @@ dev = [
 ]
 
 [project.urls]
-bugs = "https://github.com/hugobb/fastgan_comfyui/issues"
-homepage = "https://github.com/hugobb/fastgan_comfyui"
+bugs = "https://github.com/hugobb/FastGAN-ComfyUI-Node/issues"
+homepage = "https://github.com/hugobb/FastGAN-ComfyUI-Node"
 
 
 [tool.comfy]
-PublisherId = "hugobb"
+PublisherId = "hugo"
 DisplayName = "fastgan-comfyui"
 Icon = ""
 
