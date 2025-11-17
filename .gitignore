@@ -98,3 +98,5 @@ cookiecutter-pypackage-env/
 # vscode settings
 .history/
 *.code-workspace
+
+FastGAN-pytorch/
